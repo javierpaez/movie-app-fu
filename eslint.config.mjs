@@ -38,7 +38,7 @@ const eslitConfig = [
       "**/dist",
       "esm/*",
       "public/*",
-      "tests/*",
+      "__test__/*",
       "scripts/*",
       "**/*.config.js",
       "**/node_modules",
